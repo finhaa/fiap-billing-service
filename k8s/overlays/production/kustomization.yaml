@@ -31,4 +31,4 @@ patches:
     patch: |-
       - op: replace
         path: /metadata/annotations/eks.amazonaws.com~1role-arn
-        value: arn:aws:iam::118735037876:role/fiap-billing-service-prod
+        value: arn:aws:iam::305032652600:role/fiap-billing-service-prod
